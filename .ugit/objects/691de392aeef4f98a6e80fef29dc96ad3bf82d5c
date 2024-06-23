@@ -1,0 +1,37 @@
+blob/*
+@author: sk
+@date: 2024/6/18
+*/
+package main
+
+func main() {
+	//Commit("Hello World")
+	Init()
+	//Log("")
+	//Tag("feat/cool", "")
+	//K()
+	//Branch("feat/old", "")
+	//Status()
+	//Branch("", "")
+	//Show("")
+	//curr := ReadFile("test/file2")
+	//old := ReadFile("test/file1")
+	//res := DiffFile(curr, old)
+	//out := &bytes.Buffer{}
+	//for _, item := range res {
+	//	switch item.Type {
+	//	case ChangeNone:
+	//		out.Write(item.Content)
+	//	case ChangeAdd:
+	//		out.Write([]byte("===========ADD==========\n"))
+	//		out.Write(item.Content)
+	//		out.Write([]byte("\n===========END=========="))
+	//	case ChangeDelete:
+	//		out.Write([]byte("===========DELETE==========\n"))
+	//		out.Write(item.Content)
+	//		out.Write([]byte("\n===========END=========="))
+	//	}
+	//	out.Write([]byte("\n"))
+	//}
+	//WriteFile("test/out", out.Bytes())
+}
