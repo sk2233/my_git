@@ -6,7 +6,8 @@ package main
 
 import "os"
 
-// https://www.leshenko.net/p/ugit/#
+// https://www.leshenko.net/p/ugit/# ugit
+// https://cjting.me/2017/05/13/how-git-generate-diff/ git_diff
 
 func main() {
 	cmd := os.Args[1]
